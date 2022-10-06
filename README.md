@@ -9,8 +9,8 @@ Activity 2:
 
 Acitivity 3:
 
-<img width="955" alt="image" src="https://user-images.githubusercontent.com/29826854/194197364-cde668be-8687-4a29-b431-37fd21416ef5.png">
 
+<img width="953" alt="image" src="https://user-images.githubusercontent.com/29826854/194198080-5fe21afb-bed9-47a8-9fa0-8ccc9c9fe971.png">
 
 
 Activity 4: 
